@@ -1,7 +1,8 @@
 #changelist-filter .admin-numeric-filter-wrapper {
+    display: flex;
+    flex-direction: column;
     border-bottom: 1px solid #eaeaea;
-    overflow: hidden;
-    padding: 0 15px 15px 15px;
+    padding: 5px 15px 15px 15px;
 }
 
 #changelist-filter .admin-numeric-filter-wrapper h3 {
